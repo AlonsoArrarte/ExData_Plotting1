@@ -16,6 +16,7 @@ hist(as.numeric(as.vector(febdata$Global_active_power)),
      )
 dev.off
 
+<<<<<<< HEAD
 
 
 
@@ -28,3 +29,5 @@ febdata$Global_active_power
 head(febdata)
 head(as.numeric(febdata$Global_active_power))
 head(febdata$Global_active_power)
+=======
+>>>>>>> 0353c679f00580152d93f9ecb92c50b517e90a0f
